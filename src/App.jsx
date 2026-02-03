@@ -1,15 +1,15 @@
 import React from "react";
 import { Routes, Route, Navigate } from "react-router-dom";
-import Navbar from "./components/Navbar";
-import Landing from "./components/Landing";
-import Login from "./components/Login";
-import Register from "./components/Register";
-import SetupProfile from "./components/SetupProfile";
-import Dashboard from "./components/Dashboard";
-import AddExpense from "./components/AddExpense";
-import ExpenseList from "./components/ExpenseList";
-import ExpenseDetails from "./components/ExpenseDetails";
-import Statistics from "./components/Statistics";
+import Navbar from "./Components/Navbar";
+import Landing from "./Components/Landing";
+import Login from "./Components/Login";
+import Register from "./Components/Register";
+import Dashboard from "./Components/Dashboard";
+import AddExpense from "./Components/AddExpense";
+import ExpenseList from "./Components/ExpenseList";
+import ExpenseDetails from "./Components/ExpenseDetails";
+import Statistics from "./Components/Statistics";
+import SetupProfile from "./Components/SetupProfile";
 
 // Protected Route Component
 const ProtectedRoute = ({ children }) => {

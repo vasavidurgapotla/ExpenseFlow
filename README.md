@@ -1,16 +1,103 @@
-# React + Vite
+# 💰 Expense Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Project Overview
+The Expense Tracker is a simple front-end web application developed using HTML, CSS, and JavaScript(es6),reactjs. It helps users record, track, and manage their daily expenses efficiently. The application runs entirely in the browser and stores data locally, making it lightweight and easy to use without any backend setup.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 👤 Project Owner
+- **Owner Name:** Potla Vasavi Durga
+- **GitHub:** https://github.com/vasavidurgapotla
+- **Role:** Frontend Developer  
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technologies Used
 
-## Expanding the ESLint configuration
+### 🎨 Frontend
+- HTML5  
+- CSS3  
+- JavaScript (ES6)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🖥️ Backend
+- Not Applicable (Frontend-only project)
+
+### 🔧 Tools
+- Visual Studio Code  
+- Git & GitHub  
+- Web Browser (Chrome, Edge, Firefox)
+
+---
+
+## ⭐ Key Features
+
+### 🙋 User Features
+- Add daily expenses  
+- Edit and delete expenses  
+- Categorize expenses (Food, Travel, Shopping, etc.)  
+- View total expenses  
+- Track expenses by date  
+- Data stored using browser LocalStorage  
+
+### 🛡️ Admin Features
+- Not Applicable (Single-user application)
+
+### ⚙️ System Features
+- Responsive user interface  
+- Real-time expense calculation  
+- Local data persistence  
+- Simple and clean UI  
+- Fast performance  
+
+---
+
+## 🗂️ Project Structure
+
+```text
+expense-tracker/
+│
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+└── LICENSE
+
+```
+🚀 Installation & Setup
+🎨 Frontend Setup
+
+Clone the repository:git clone https://github.com/vasavidurgapotla/ExpenseFlow
+🔐 Security
+
+Runs completely on the client side
+
+No authentication required
+
+No server-side data storage
+
+Uses LocalStorage for data persistence
+
+🌐 Live Application
+
+Live Demo: expenseflowapp.vercel.app
+
+(Hosted using GitHub Pages)
+
+⚖️ Legal & Ownership
+
+This project is owned and maintained by kalikaya varshini.
+Licensed under the MIT License.
+
+You are free to use, modify, and distribute this project with proper attribution.
+
+See the LICENSE file for more details.
+
+📞 Contact
+
+Name: potla vasavi durga
+
+Email: vasavidurgapotla@gmail.com
+
+GitHub: https://github.com/vasavidurgapotla
+
+© 2026 potlavasavidurga. All rights reserved.
